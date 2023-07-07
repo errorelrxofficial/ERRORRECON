@@ -9,7 +9,7 @@ Join Telegram Group for help and Feedback.
 - GitHub: https://github.com/errorelrxofficial
 - Telegram Group: https://t.me/errorelrxcommunity [Chat]
 
-![Screenshot](https://github.com/errorelrxofficial/ERRORRECON/blob/master/capture.jpg)
+![Screenshot](https://github.com/errorelrxofficial/ERRORRECON/blob/master/capture.png)
 
 ## How to use:
 - Compatible with:
